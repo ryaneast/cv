@@ -4,11 +4,25 @@ body {
 }
 
 hr {
-  background-color: none;
-  border-style: none;
   height: 10px;
   width: 3%;
   border-top-width: 6px;
   border-color: #357376;
   border-style: dotted none none none;
+}
+
+h1 {
+  color: #1d4d4f;
+}
+
+h2 {
+  color: #1d4d4f;
+}
+
+h3 {
+  color: #1d4d4f;
+}
+
+h4 {
+  color: #1d4d4f;
 }
